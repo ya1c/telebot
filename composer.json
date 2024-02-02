@@ -1,0 +1,20 @@
+{
+  "name": "ya1c/telebot",
+  "description": "Telebot - simple script for send messages to a bot",
+  "type" : "library",
+  "keywords": ["php","telegram","bot","api"],
+  "homepage": "https://github.com/ya1c/telebot",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ya1c"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Ya\\": "src/"
+    }
+  }
+}
